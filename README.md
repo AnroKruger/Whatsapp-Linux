@@ -19,10 +19,10 @@ npm run build-linux64
 npm run build-linux32
 This command will create a folder called Wazapp-linux32(64) that contains the executable file. Now you have to include this file as a startup application of your Linux operating system
 
-NOTE
+# NOTE
 If it is not already installed, you have to include electron-packager for creating the linux executable file with the following command:
 
-#install the dependency 
+# install the dependency 
 npm install electron-packager
 
 
