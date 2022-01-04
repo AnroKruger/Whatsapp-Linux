@@ -5,7 +5,7 @@ It is not an official application of WhatsApp Inc. Build your own custom client 
 Clone and run this repository you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
 # Clone this repository
-git clone https://github.com/miccar/wazapp
+git clone https://github.com/AnroKruger/Whatsapp-Linux.git
 # Go into the repository
 cd wazapp
 # Install dependencies
