@@ -1,6 +1,11 @@
 # Whatsapp-Linux
 It is not an official application of WhatsApp Inc. Build your own custom client for WhatsApp.  Unfortunately there is no official Whatsapp client for Linux operating systems. But we are a Linux users, if it is not exists, we will create it.  This is created with latest version of Electron v8
 
+
+![whatsapp1](https://user-images.githubusercontent.com/92087997/148071783-7cddb3ea-80ac-40e7-9326-a5735de4d336.png)
+
+
+
 # How to use
 Clone and run this repository you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
@@ -25,5 +30,3 @@ If it is not already installed, you have to include electron-packager for creati
 
 # install the dependency 
 npm install electron-packager
-
-
