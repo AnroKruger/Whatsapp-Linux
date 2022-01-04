@@ -26,5 +26,3 @@ If it is not already installed, you have to include electron-packager for creati
 npm install electron-packager
 
 
-
-![whatsapp](https://user-images.githubusercontent.com/92087997/148057808-ec7d579f-00e2-428a-a5b3-fbb96ddb4b52.png)
